@@ -1,8 +1,8 @@
 # Predição Preços de Carros
 
 ## Descrição do Projeto
-Objetico é realizar predições em um apicativo de vendas de carros.
-A qualidade e velocidade de predições é cricial para o negócio.
+Objetico é realizar predições em um aplicativo de vendas de carros.
+A qualidade e velocidade de predições é crucial para o negócio.
 Acesso a dados históricos, especificações técnicas, versões de acabamento e preços.
 
 ## Ferramentas e Bibliotecas Utilizadas
